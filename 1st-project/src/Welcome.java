@@ -6,6 +6,9 @@ public class Welcome {
 		System.out.println("hi");
 		
 		System.out.println("Bye");
+		
+
+		System.out.println("Ali");
 
 	}
 
